@@ -1,0 +1,3 @@
+﻿  Task6.cpp
+e:\руслан\учеба\програмування\2 семестр\лаби\audit5\task6\task6.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Task6.vcxproj -> E:\Руслан\Учеба\Програмування\2 семестр\Лаби\Audit5\Task6\Debug\Task6.exe
